@@ -45,4 +45,3 @@ Elasticsearch es una base de datos y un motor de búsqueda de código abierto de
 [Ejecución de pruebas automatizadas de rendimiento de Elasticsearch]: guidance-elasticsearch-running-automated-performance-tests.md
 
 <!---HONumber=AcomDC_0224_2016 cc test approve-->
-<!---HONumber=AcomDC_0224_2016 CC test reject-->
