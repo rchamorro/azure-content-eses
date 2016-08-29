@@ -28,7 +28,7 @@ AzCopy es una utilidad de línea de comandos diseñada para copiar datos a y des
 
 ### Windows
 
-Descrgue la [versión más reciente de AzCopy](http://aka.ms/downloadazcopy).
+Descargue la [versión más reciente de AzCopy](http://aka.ms/downloadazcopy).
 
 ### Mac o Linux:
 
